@@ -29,6 +29,7 @@ console.log(lista_cursos);
 console.log(informacion_personal);
 console.log(lista_cursos2);
 
+// constantes
 const cedula = 7984
 console.log(cedula);
 console.warn(cedula);
