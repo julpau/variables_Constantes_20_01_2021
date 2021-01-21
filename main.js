@@ -1,1 +1,2 @@
-console.log("conectado");
+vaso="cafe"
+console.log(vaso);
