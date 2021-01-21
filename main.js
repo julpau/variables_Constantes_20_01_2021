@@ -12,6 +12,12 @@ informacion_personal=
     id:123123123,
     direccion:"CL 2 3 65"
 }
+
+lista_cursos2=['JavaScript','PHP',{
+    id:123123123,
+    direccion:"CL 2 3 65"
+}];
+
 console.log(nombre);
 console.log(edad);
 console.log(profesor);
