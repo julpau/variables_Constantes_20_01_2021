@@ -1,2 +1,2 @@
-vaso="cafe"
+vaso="cafe";
 console.log(vaso);
