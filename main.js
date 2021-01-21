@@ -1,12 +1,12 @@
-vaso="cafe";
+var vaso="cafe";
 console.log(vaso);
-vaso="agua";
+var vaso="agua";
 console.log(vaso);
 
 // Variables
-nombre="miguel";
-edad=23;
-profesor=true;
+var nombre="miguel";
+let edad=23;
+var profesor=true;
 //Array
 lista_cursos=['JavaScript','PHP'];
 // objeto
@@ -28,3 +28,7 @@ console.log(profesor);
 console.log(lista_cursos);
 console.log(informacion_personal);
 console.log(lista_cursos2);
+
+const cedula = 7984
+console.log(cedula);
+console.warn(cedula);
